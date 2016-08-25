@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=synergy
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Synergy
+Name=Synergy
+Comment[en_US]=Share your keyboard and mouse over a network
+Comment=Share your keyboard and mouse over a network
